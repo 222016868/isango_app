@@ -1,4 +1,5 @@
 class AppRoutes {
+  static const authLanding = '/auth';
   static const login = '/login';
   static const signUp = '/signup';
   static const verifyEmail = '/verify-email';
